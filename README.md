@@ -229,7 +229,9 @@ LIMIT 25;
 Throughout this project, I enhanced my SQL proficiency and deepened my understanding of the data analyst job market:
 
 🧩 **Advanced Query Techniques:** Mastered complex SQL queries, including JOINs, CTEs, and using WITH clauses for advanced data manipulation.
+
 📊 **Data Aggregation:** Strengthened my use of GROUP BY and aggregate functions like COUNT() and AVG() to extract key insights from the data.
+
 💡 **Real-World Problem Solving:** Improved my ability to translate job market questions into actionable SQL queries, generating valuable career-related insights.
 
 # Conclusions

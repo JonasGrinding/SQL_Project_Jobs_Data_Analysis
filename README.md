@@ -55,7 +55,7 @@ LIMIT 10;
 - **Variety in Job Titles:** There is significant diversity in job titles, from Data Analyst to Director of Analytics, reflecting the broad range of roles and specializations within data analytics.
 - **Remote Opportunities:** A majority of these roles offer remote work, highlighting the growing flexibility within high-paying data analyst positions.
 
-\![Top Paying Roles](assets/1_top_paying_roles.png)
+![Top Paying Roles](assets/1_top_paying_roles.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 2. Skills for Top Paying Jobs
@@ -124,13 +124,13 @@ LIMIT 5;
 - **SQL** and **Excel** remain foundational, underscoring the need for strong skills in data processing and spreadsheet management.
 - **Programming Languages** and **Visualization Tools** such as **Python**, **Tableau**, and **Power BI** are in high demand, highlighting the increasing importance of technical skills for data storytelling and decision-making.
 
-\| Skills   \| Demand Count \|
-\|----------\|--------------\|
-\| SQL      \| 7,291        \|
-\| Excel    \| 4,611        \|
-\| Python   \| 4,330        \|
-\| Tableau  \| 3,745        \|
-\| Power BI \| 2,609        \|
+| Skills   | Demand Count |
+|----------|--------------|
+| SQL      | 7,291        |
+| Excel    | 4,611        |
+| Python   | 4,330        |
+| Tableau  | 3,745        |
+| Power BI | 2,609        |
 
 *Table of the demand for the top 5 skills in data analyst job postings.*
 
@@ -161,18 +161,18 @@ LIMIT 25;
 - **Development & Deployment Skills:** Proficiency in tools such as GitLab, Kubernetes, and Airflow is highly valued, emphasizing the crossover between data analytics and engineering.
 - **Cloud Computing Proficiency:** Cloud-based tools (Elasticsearch, Databricks, GCP) significantly boost earning potential, highlighting the shift towards cloud-driven analytics.
 
-\| Skills       \| Average Salary (\$) \|
-\|--------------\|--------------------\|
-\| pyspark      \| 208,172            \|
-\| bitbucket    \| 189,155            \|
-\| couchbase    \| 160,515            \|
-\| watson       \| 160,515            \|
-\| datarobot    \| 155,486            \|
-\| gitlab       \| 154,500            \|
-\| swift        \| 153,750            \|
-\| jupyter      \| 152,777            \|
-\| pandas       \| 151,821            \|
-\| elasticsearch\| 145,000            \|
+| Skills       | Average Salary ($) |
+|--------------|--------------------|
+| pyspark      | 208,172            |
+| bitbucket    | 189,155            |
+| couchbase    | 160,515            |
+| watson       | 160,515            |
+| datarobot    | 155,486            |
+| gitlab       | 154,500            |
+| swift        | 153,750            |
+| jupyter      | 152,777            |
+| pandas       | 151,821            |
+| elasticsearch| 145,000            |
 
 *This table format is markdown-friendly and will render properly when uploaded to GitHub.*
 
@@ -202,18 +202,18 @@ ORDER BY
 LIMIT 25;
 ```
 
-\| Skill ID \| Skills      \| Demand Count \| Average Salary (\$) \|
-\|----------\|-------------\|--------------\|--------------------\|
-\| 8        \| go          \| 27           \| 115,320            \|
-\| 234      \| confluence  \| 11           \| 114,210            \|
-\| 97       \| hadoop      \| 22           \| 113,193            \|
-\| 80       \| snowflake   \| 37           \| 112,948            \|
-\| 74       \| azure       \| 34           \| 111,225            \|
-\| 77       \| bigquery    \| 13           \| 109,654            \|
-\| 76       \| aws         \| 32           \| 108,317            \|
-\| 4        \| java        \| 17           \| 106,906            \|
-\| 194      \| ssis        \| 12           \| 106,683            \|
-\| 233      \| jira        \| 20           \| 104,918            \|
+| Skill ID | Skills      | Demand Count | Average Salary ($) |
+|----------|-------------|--------------|--------------------|
+| 8        | go          | 27           | 115,320            |
+| 234      | confluence  | 11           | 114,210            |
+| 97       | hadoop      | 22           | 113,193            |
+| 80       | snowflake   | 37           | 112,948            |
+| 74       | azure       | 34           | 111,225            |
+| 77       | bigquery    | 13           | 109,654            |
+| 76       | aws         | 32           | 108,317            |
+| 4        | java        | 17           | 106,906            |
+| 194      | ssis        | 12           | 106,683            |
+| 233      | jira        | 20           | 104,918            |
 
 *Table of the most optimal skills for data analysts, sorted by salary*
 
